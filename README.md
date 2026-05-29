@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Andreu! 👋
 
-<!--
-**AndreuMartorellSerra/AndreuMartorellSerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student of **Web Application Development (DAW)** at Es Liceu, passionate about software development, clean code, and building functional applications.
 
-Here are some ideas to get you started:
+### 🚀 Tech Stack & Tools
+- **Languages:** Java, HTML5, CSS3, JavaScript
+- **Tools & Environments:** Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Current Projects
+- 🕹️ **Game-Arena-of-Beasts:** A turn-based fantasy combat game built in Java with custom ASCII rendering.
+- 📋 **Barcodes:** A Java encoder and decoder for Code 11 and Code 93 Extended standards.
+
+---
+📫 **How to reach me:** andreumollserra@gmail.com
