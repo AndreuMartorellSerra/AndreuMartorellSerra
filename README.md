@@ -10,6 +10,7 @@ I am a student of **Web Application Development (DAW)** at Es Liceu, passionate 
 
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ### Current Projects
 - **Game-Arena-of-Beasts:** A turn-based fantasy combat game built in Java with custom ASCII rendering.
