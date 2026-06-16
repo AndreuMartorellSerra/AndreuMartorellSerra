@@ -15,8 +15,9 @@ I am a student of **Web Application Development (DAW)** at Es Liceu, passionate 
 ![](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ### Current Projects
-- **Game-Arena-of-Beasts:** A turn-based fantasy combat game built in Java with custom ASCII rendering.
-- **Barcodes:** A Java encoder and decoder for Code 11 and Code 93 Extended standards.
+* **[CaptionIt](https://github.com/AndreuMartorellSerra/CaptionIt):** A multiplayer web game where creativity and humor are the keys to victory. Built with a full JavaScript frontend (Vite + Tailwind CSS), a robust backend containerized with Docker, and automated polling intervals for real-time room states.
+* **[Game-Arena-of-Beasts](https://github.com/AndreuMartorellSerra/Game-Arena-of-Beasts):** A turn-based fantasy combat game built in Java with custom ASCII rendering.
+* **[Barcodes](https://github.com/AndreuMartorellSerra/Barcodes):** A Java encoder and decoder for Code 11 and Code 93 Extended standards.
 
 ---
 📫 **How to reach me:** andreumollserra@gmail.com
