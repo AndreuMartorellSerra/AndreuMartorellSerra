@@ -16,6 +16,7 @@ I am a student of **Web Application Development (DAW)** at Es Liceu, passionate 
 ![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Home_Automation-03A9F4?style=flat-square&logo=homeassistant&logoColor=white)
 
 ### Current Projects
